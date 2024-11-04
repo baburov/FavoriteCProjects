@@ -1,5 +1,10 @@
 # My Favorite C Project
 ## My snprintf
-My implementation of the snprintf function from the standard C library. Formats %x and %s were implemented.
+Моя реализация функции snprintf из стандартной бибилотеки. Поддерживаются:
+- %x
+- %s
+
 ## C+Python
-A small program with a graphical interface in Python and a static library in C.
+Программа на Python для работы с массивами чисел. Использует статическую библиотеку, написанную на C. Интерфейс реализован на tkinter. Поддерживаются два способа выделения памяти:
+- с запасом
+- с подсчетом количества элементов в результате
